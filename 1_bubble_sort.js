@@ -1,4 +1,4 @@
-/* bubble sort */
+/* bubble sort - O(n^2) time */
 
 function bubbleSort(arr) {
     /* keep track of where in the array the

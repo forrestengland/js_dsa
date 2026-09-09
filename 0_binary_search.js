@@ -1,5 +1,6 @@
 /* binary search - needs a sorted array from low to high
- returns the index with the value or null */
+   returns the index with the value or null
+   O (log n) time */
 
 function binarySearch(array, value) {
 
